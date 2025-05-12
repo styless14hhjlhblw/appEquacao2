@@ -71,7 +71,7 @@ export default function App() {
           </TouchableOpacity>
         </View>
 
-        <Text style={styles.footer}>© 2024 - Criado por Rafael</Text>
+        <Text style={styles.footer}>© 2024 - Criado por Luiza</Text>
       </View>
 
       <StatusBar style="auto" />
